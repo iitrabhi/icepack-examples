@@ -11,27 +11,16 @@
             "id": "b569adca16455c63",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Kanban.md"
-              }
-            }
-          },
-          {
-            "id": "39bb04b5ba0b363c",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "08_meetings/Meeting - 2024-01-11.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08_meetings/Meeting - 2024-01-11.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08_meetings/Meeting - 2024-01-11.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08_meetings/Meeting - 2024-01-11.md"
+                "file": "README.md"
               }
             }
           },
@@ -162,12 +151,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,11 +165,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": true,
       "command-palette:Open command palette": true,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": true
     }
   },
-  "active": "39bb04b5ba0b363c",
+  "active": "b569adca16455c63",
   "lastOpenFiles": [
+    "docker/Dockerfile",
+    "docker/bashrc.txt",
     "Schedule.md",
     "08_meetings/Meeting - 2024-01-11.md",
     "Kanban.md",
@@ -217,7 +207,6 @@
     "01_research/03_cohort/02_14_september/01-market-sizing/attachments/Pasted image 20230914103858.png",
     "01_research/03_cohort/02_14_september/01-market-sizing/attachments/Pasted image 20230914103306.png",
     "01_research/02_interview_prep/nationals interview questions.md",
-    "01_research/03_cohort/01_seven_september/02-introduction/01-What is customer discovery.md",
     "01_research/03_cohort/01_seven_september/02-introduction/attachments/Pasted image 20230906221242.png",
     "01_research/03_cohort/01_seven_september/02-Welcome to the Jefferson St Cohort Outline and Agenda.pdf",
     "01_research/03_cohort/01_seven_september/01-Enroll_in_JeffersonSt_Fall2023.pdf",
@@ -227,7 +216,6 @@
     "02_customer_discovery/01-contacts/attachments/Pasted image 20230927142011.png",
     "02_customer_discovery/01-contacts/attachments/Pasted image 20230927141927.png",
     "02_customer_discovery/01-contacts/attachments/Pasted image 20230922213422.png",
-    "02_customer_discovery/01-contacts/attachments/Pasted image 20230911132040.png",
-    "attachments"
+    "02_customer_discovery/01-contacts/attachments/Pasted image 20230911132040.png"
   ]
 }
