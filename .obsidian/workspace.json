@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "0e5a2d76cf839a0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c09671fcc8e66705",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b569adca16455c63",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban.md"
+              }
+            }
+          },
+          {
+            "id": "39bb04b5ba0b363c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08_meetings/Meeting - 2024-01-11.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "149dca160057404e",
+    "type": "split",
+    "children": [
+      {
+        "id": "31783ddc2aa46ece",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "657fda871125686d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "53a7c83b53a3ae45",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "22e4b5e388bff0c8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 290.5
+  },
+  "right": {
+    "id": "f6adb4957b3bc7ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "f04bc1a1030cb4ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba4baf1244eafcfe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "08_meetings/Meeting - 2024-01-11.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8779cc14ddec42d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "08_meetings/Meeting - 2024-01-11.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d33ecb69bc9917b5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c1116c7d7c8ae830",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "08_meetings/Meeting - 2024-01-11.md"
+              }
+            }
+          },
+          {
+            "id": "1b6e52d102182bcb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "887e84000a2b2ec4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "39bb04b5ba0b363c",
+  "lastOpenFiles": [
+    "Schedule.md",
+    "08_meetings/Meeting - 2024-01-11.md",
+    "Kanban.md",
+    "dhurum.md",
+    "README.md",
+    "09_templates/01_meeting.md",
+    "08_meetings/Meeting - 2024-01-09.md",
+    "08_meetings/attachments/Pasted image 20240109153118.png",
+    "02_customer_discovery/01-contacts/Santi Aadvani.md",
+    "02_customer_discovery/01-contacts/01-contacts KB.md",
+    "02_customer_discovery/01-email.md",
+    "02_customer_discovery/02-interview-questions.md",
+    "01_research/01_executive_summary/readme.md",
+    "01_research/01_executive_summary/02_canvas.canvas",
+    "01_research/02_interview_prep/ADVISER Interview Log - Google Sheets.pdf",
+    "01_research/03_cohort/01_seven_september/03-business model canvas/03-how do you segment your customers.md",
+    "01_research/03_cohort/01_seven_september/03-business model canvas/01-business model canvas explained.md",
+    "01_research/03_cohort/01_seven_september/03-business model canvas/02-intro to BMC for ideators.md",
+    "01_research/02_interview_prep/Insights Outline for Full Program.pdf",
+    "01_research/02_interview_prep/02_interview_prep_questions.pdf",
+    "01_research/01_executive_summary/01_executive_summary.pdf",
+    "02_customer_discovery/01-contacts/Kevin Christopher.md",
+    "01_research/03_cohort/01_seven_september/02-introduction/05-what is a customer segment.md",
+    "01_research/03_cohort/readme.md",
+    "01_research/03_cohort/01_seven_september/02-introduction/03-Value proposition formula.md",
+    "01_research/03_cohort/01_seven_september/02-introduction/02-what is a value proposition.md",
+    "01_research/03_cohort/01_seven_september/02-introduction/06-customer interviewing.md",
+    "01_research/03_cohort/01_seven_september/02-introduction/attachments/ValuePropMadLibs handout.pdf",
+    "01_research/03_cohort/01_seven_september/02-introduction/04-value proposition vs mission statement.md",
+    "01_research/03_cohort/01_seven_september/04-customer discovery/02-orgainze your insights.md",
+    "01_research/03_cohort/01_seven_september/04-customer discovery/01-customer interview questions.md",
+    "01_research/03_cohort/02_14_september/01-market-sizing/attachments/Pasted image 20230914105002.png",
+    "01_research/03_cohort/02_14_september/01-market-sizing/attachments/Pasted image 20230914103858.png",
+    "01_research/03_cohort/02_14_september/01-market-sizing/attachments/Pasted image 20230914103306.png",
+    "01_research/02_interview_prep/nationals interview questions.md",
+    "01_research/03_cohort/01_seven_september/02-introduction/01-What is customer discovery.md",
+    "01_research/03_cohort/01_seven_september/02-introduction/attachments/Pasted image 20230906221242.png",
+    "01_research/03_cohort/01_seven_september/02-Welcome to the Jefferson St Cohort Outline and Agenda.pdf",
+    "01_research/03_cohort/01_seven_september/01-Enroll_in_JeffersonSt_Fall2023.pdf",
+    "attachments/Pasted image 20230921182901.png",
+    "ADVISER Interview Log - Google Sheets.pdf",
+    "02_customer_discovery/ADVISER Interview Log - Google Sheets.pdf",
+    "02_customer_discovery/01-contacts/attachments/Pasted image 20230927142011.png",
+    "02_customer_discovery/01-contacts/attachments/Pasted image 20230927141927.png",
+    "02_customer_discovery/01-contacts/attachments/Pasted image 20230922213422.png",
+    "02_customer_discovery/01-contacts/attachments/Pasted image 20230911132040.png",
+    "attachments"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "textFontFamily": "Bitter",
+  "baseFontSize": 20,
+  "cssTheme": "Obsidian Nord",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "quote"
+  ]
+}
