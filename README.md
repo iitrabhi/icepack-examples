@@ -1,6 +1,6 @@
 # Installation of Icepack on Docker for MAC/Windows
 
-This repository includes a Docker script containing all the necessary dependencies for conducting simulations with IcePack. To begin, download the zip file by clicking the green `Code` button above, and then follow these instructions. If you are unfamiliar with working in a terminal, I recommend watching this [video](https://www.youtube.com/watch?v=5XgBd6rjuDQ) first.
+This repository includes a Docker script containing all the necessary dependencies for conducting simulations with [IcePack](https://github.com/icepack/icepack/tree/master). To begin, download the zip file by clicking the green `Code` button above, and then follow these instructions. If you are still getting familiar with working in a terminal, I recommend watching this [video](https://www.youtube.com/watch?v=5XgBd6rjuDQ) first.
 
 ## Getting Started
 These instructions will guide you in setting up and running the project on your local machine for development and testing purposes.
