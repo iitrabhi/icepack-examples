@@ -21,7 +21,7 @@ Once Docker is installed and running, open CMDER/terminal and execute the follow
 
 ```bash
 cd /path/to/this/repo
-cd Docker
+cd docker
 docker build --target base -t icepack .
 ```
 
@@ -29,7 +29,7 @@ docker build --target base -t icepack .
 
 ```bash
 cd /path/to/this/repo
-cd Docker
+cd docker
 docker build --target notebook -t icepack_notebook .
 ```
 
