@@ -7,7 +7,9 @@ RUN source firedrake/bin/activate && \
     pip install git+https://github.com/icepack/Trilinos.git && \
     pip install git+https://github.com/icepack/pyrol.git  && \
     pip install git+https://github.com/icepack/icepack.git && \
-    pip install --upgrade --no-cache-dir jupyter jupyterlab
+    pip install --upgrade --no-cache-dir jupyter jupyterlab && \
+    pip install h5netcdf && \
+    pip install netCDF4
 
 WORKDIR /home/firedrake
 COPY .bashrc /home/firedrake
