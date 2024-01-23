@@ -16,6 +16,11 @@ After installation, open `cmder`, navigate to Settings (Win+Alt+P) ➡ Import, a
 
 Once Docker is installed and running, open CMDER/terminal and execute the following commands:
 
+### Important note for windows
+If you are using Windows, please change the line-endings(CRLF/LF) for the `*.sh` files in the docker folder before proceeding.
+
+Open the `*.sh` files in VSCode, and you can change CRLF to LF by clicking on CRLF present on the lower right side in the status bar.
+
 ### Installation
 - To install the Icepack command-line interface, run the following commands:
 
