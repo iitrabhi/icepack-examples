@@ -134,3 +134,5 @@ dmypy.json
 .jupyter/
 jitfailure*/
 *.vtk
+*.vtu
+*.pvd

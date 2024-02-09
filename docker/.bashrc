@@ -124,6 +124,7 @@ clear_attributes="\[$(tput sgr0)\]"
 export PS1="${titlebar}${green}➜  ${blue}\W ${cyan}\$(git_branch)${clear_attributes}"
 # for parallel processing
 export OMP_NUM_THREADS=1
+export PYTHONWARNINGS="ignore:unable to find git revision"
 
 # To activate firedrake
 source ~/firedrake/bin/activate

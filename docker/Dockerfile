@@ -9,7 +9,8 @@ RUN source firedrake/bin/activate && \
     pip install git+https://github.com/icepack/icepack.git && \
     pip install --upgrade --no-cache-dir jupyter jupyterlab && \
     pip install h5netcdf && \
-    pip install netCDF4
+    pip install netCDF4 && \
+    pip install black[jupyter]
 
 WORKDIR /home/firedrake
 COPY .bashrc /home/firedrake
